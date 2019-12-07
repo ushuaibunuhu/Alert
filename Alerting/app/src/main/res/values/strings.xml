@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Panic Alert</string>
+    <string name="cont">Continue</string>
+    <string name="registerCom">Registration Complete</string>
+    <string name="register">Continue To Registration</string>
+    <string name="welcom">Welcome To The Feature</string>
+</resources>
